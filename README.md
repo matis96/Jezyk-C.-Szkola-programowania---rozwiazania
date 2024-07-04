@@ -2,7 +2,7 @@ Rozwiązania do polskiego wydania książki "Język C. Szkoła Programowania", w
 
 Solutions to the Polish edition of the book "C Primer Plus (6th Edition)" by Stephen Prata 
 
-Rozdział 2. Wstęp do C
+Rozdział 2. Wstęp do C\n
 Rozdział 3. Dane w C
 Rozdział 4. Łańcuchy znakowe i formatowane wejście-wyjście
 Rozdział 5. Operatory, wyrażenia i instrukcje
